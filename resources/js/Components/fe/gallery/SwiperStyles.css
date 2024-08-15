@@ -1,0 +1,24 @@
+.swiper-button-prev,
+.swiper-button-next {
+    color: teal;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 9999px;
+    height: 4rem;
+    width: 4rem;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.swiper-pagination-bullet {
+    color: white;
+    background-color: white;
+    width: 60px;
+}
+
+swiper .swiper-button-prev,
+.swiper-button-next {
+    color: teal;
+}
